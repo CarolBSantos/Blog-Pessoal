@@ -41,11 +41,11 @@ public class SwaggerConfig {
 					.url("https://https://www.linkedin.com/in/carolinab-santos/"))
 				.contact(new Contact()
 					.name("Blog Pessoal")
-					.url("https://https://github.com/CarolBSantos/")
+					.url("https://github.com/CarolBSantos/")
 					.email("carolinabsantos23@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
-					.url("https://https://github.com/CarolBSantos/"));
+					.url("https://github.com/CarolBSantos/"));
 	}
 
     /**
